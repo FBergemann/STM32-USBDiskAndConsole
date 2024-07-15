@@ -1,0 +1,11 @@
+../Application/User/Logging.c:26:6:LogWait4Ready	1
+../Application/User/Logging.c:31:6:Log	3
+../Application/User/Logging.c:38:6:LogNoPrefix	3
+../Application/User/Logging.c:45:7:LogClientID2String	2
+../Application/User/Logging.c:61:8:LogMakePrefix	2
+../Application/User/Logging.c:77:6:LogIntToStr	3
+../Application/User/Logging.c:88:6:LogUInt8ToStr	3
+../Application/User/Logging.c:99:6:LogUInt16ToStr	3
+../Application/User/Logging.c:110:6:LogUInt32ToStr	3
+../Application/User/Logging.c:121:6:LogSetSingleMode	1
+../Application/User/Logging.c:126:6:LogIsSingleMode	1

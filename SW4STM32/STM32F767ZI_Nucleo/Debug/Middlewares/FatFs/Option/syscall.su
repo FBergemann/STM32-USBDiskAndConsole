@@ -1,0 +1,2 @@
+/home/frank/STM32CubeIDE/workspace_1.16.0/FatFs_USBDisk/Middlewares/Third_Party/FatFs/src/option/syscall.c:158:7:ff_memalloc	0	static
+/home/frank/STM32CubeIDE/workspace_1.16.0/FatFs_USBDisk/Middlewares/Third_Party/FatFs/src/option/syscall.c:170:6:ff_memfree	0	static

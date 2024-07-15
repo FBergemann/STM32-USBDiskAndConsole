@@ -1,0 +1,8 @@
+../Application/User/TaskConsole.c:115:13:AddLogCore	2
+../Application/User/TaskConsole.c:35:6:TaskConsole_PrepareRTOS	1
+../Application/User/TaskConsole.c:42:6:TaskConsole_USART3_DMA_IRQ	1
+../Application/User/TaskConsole.c:60:6:HAL_UART_RxCpltCallback	2
+../Application/User/TaskConsole.c:70:6:TaskConsole_Run	3
+../Application/User/TaskConsole.c:133:6:TaskConsole_AddLog	3
+../Application/User/TaskConsole.c:150:6:TaskConsole_AddLogNoPrefix	3
+../Application/User/TaskConsole.c:162:6:TaskConsole_WaitReady	2

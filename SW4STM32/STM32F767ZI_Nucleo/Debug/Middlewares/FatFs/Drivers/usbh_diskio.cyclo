@@ -1,0 +1,5 @@
+/home/frank/STM32CubeIDE/workspace_1.16.0/FatFs_USBDisk/Src/usbh_diskio.c:64:9:USBH_initialize	1
+/home/frank/STM32CubeIDE/workspace_1.16.0/FatFs_USBDisk/Src/usbh_diskio.c:76:9:USBH_status	1
+/home/frank/STM32CubeIDE/workspace_1.16.0/FatFs_USBDisk/Src/usbh_diskio.c:185:9:USBH_ioctl	8
+/home/frank/STM32CubeIDE/workspace_1.16.0/FatFs_USBDisk/Src/usbh_diskio.c:100:9:USBH_read	4
+/home/frank/STM32CubeIDE/workspace_1.16.0/FatFs_USBDisk/Src/usbh_diskio.c:140:9:USBH_write	5
